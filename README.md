@@ -1,7 +1,9 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wd-Rasel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100035641064739)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100035641064739)
 
 ### Hi there 👋, my name is Rasel Ali
 #### I am front-end web-developer.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wd-Rasel)
 
 [I am front-end web-developer.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/c0.62.472.472a/s526x395/256525390_603676084163755_5325021752470396710_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8Vmi0ovVaHIAX9WQ66X&tn=bPKtVh-q8OJQ7G6W&_nc_ht=scontent.fdac22-1.fna&oh=00_AT8qXo2r32T9XjsgFQ8GcHOhHHdiwuBwYIvE_d2z03WyLA&oe=61CDD222)
 
